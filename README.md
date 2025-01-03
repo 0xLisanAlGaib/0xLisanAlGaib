@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Solidity and React
 - 💞️ I’m looking to collaborate on crazy DeFi projects
 - 📫 How to reach me
--     X: https://x.com/0xLisanAlGaib
--   Medium: https://medium.com/@0xlisanalgaib
+  -X: https://x.com/0xLisanAlGaib
+  -Medium: https://medium.com/@0xlisanalgaib
 - ⚡ Fun fact: it is easier and a lot more fun to ride a Shai-Hulud as a capybara
 
 <!---
