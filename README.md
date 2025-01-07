@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xLisanAlGaib
-- 👀 I’m interested in DeFi (particularly lending and oracles)
-- 🌱 I’m currently learning Solidity and React
+- 🔬 Solidity, Python, R, React, Tailwind, Ponder
+- 🌱 I’m currently learning how to use AI agents
 - 💞️ I’m looking to collaborate on crazy DeFi projects
 - 📫 How to reach me
   -X: https://x.com/0xLisanAlGaib
